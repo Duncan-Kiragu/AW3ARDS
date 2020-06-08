@@ -113,7 +113,7 @@ Set the configuration to production mode
 
 ## Live Demo
 
-The web app can be accessed from the following link: 
+The web app can be accessed from the following link: https://aw3ards.herokuapp.com/
 
 ## Built With
 * Python
