@@ -8,14 +8,14 @@
 This is a Django website that allows a user to post a project he/she has created and get it reviewed by his/her peers.A project can be rated based on 3 different Criteria Design,
 Usability and Content
  
-## Features for the users:
+## User features:
 
-Users would like to:
+Users can be able to:
 * View posted projects and their details
 * Post a project to be rated/reviewed
 * Rate/ review other users' projects
 * View projects overall score
-* View my profile page
+* View their profile page
 
 
 
@@ -125,6 +125,7 @@ The web app can be accessed from the following link:
 * PostgreSQL Database
 * MDBootstrap
 * SCSS
+* POSTMAN
 
 
 ### License
